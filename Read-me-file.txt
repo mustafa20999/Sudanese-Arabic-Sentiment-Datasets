@@ -1,0 +1,22 @@
+﻿
+Two Sudanese Arabic Sentiment Datasets:
+
+
+
+1. The 2-Class Sudanese Sentiment Dataset
+ (SudSenti2) was created from Facebook and YouTube.
+Four thousand posts were selected from the original 4,544. The final SudSenti2 dataset contains 2,027 positive posts and 1,973 negative posts.
+
+
+2. The 3-Class Sudanese Sentiment Dataset (SudSenti3) 
+was created from Twitter posts.
+Seven thousand one hundred nine tweets were selected from the original 8,021. The resulting SudSenti3 dataset contains 2,523 positive posts and 2,639 negative posts.
+
+
+
+The details of both datasets can be found in our article titled "A Deep CNN Architecture with Novel Pooling Layer Applied to Two Sudanese Arabic Sentiment Datasets".
+
+
+
+
+If you use any of the aforementioned corpora, please cite our papers "A Deep CNN Architecture with Novel Pooling Layer Applied to Two Sudanese Arabic Sentiment Datasets" and  "Improving Arabic Sentiment Analysis Using CNN-Based Architectures and Text Preprocessing" published by Computational Intelligence and Neuroscience.
